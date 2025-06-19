@@ -1,7 +1,7 @@
 <h2 align="center">👋 Olá, eu sou Robson Medeiros</h2>
 
 <p align="center">
-Graduado em Engenharia de Software pela UFC • Estudando Node.js e React diariamente • Apaixonado por tecnologia e automações
+Graduado em Engenharia de Software pela UFC • Estudando Node.js e React diariamente • Apaixonado por tecnologia, educação e automações
 </p>
 
 ---
