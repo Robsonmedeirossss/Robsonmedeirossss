@@ -8,8 +8,8 @@ Graduado em Engenharia de Software pela UFC • Estudando Node.js e React diaria
 
 ## 📬 Contato / Contact me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/seu-link-aqui)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/seu-link-aqui](https://www.linkedin.com/in/robson-medeiros-ab8653236/))
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robsonmedeiros125@gmail.com)
 
 ---
 
