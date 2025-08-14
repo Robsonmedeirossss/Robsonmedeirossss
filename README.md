@@ -20,7 +20,7 @@ Graduado em Engenharia de Software pela UFC • Estudando Node.js e React diaria
 
 Sou formado em **Engenharia de Software pela Universidade Federal do Ceará (UFC)** e atualmente estou em transição para a área de desenvolvimento. Tenho me dedicado diariamente ao estudo prático de **Node.js**, **React**, e à criação de projetos próprios enquanto aprendo.
 
-Atualmente trabalho como **Analista de Treinamento e Desenvolvimento**, e levo para minha jornada de dev as habilidades de comunicação, ensino e organização adquiridas nessa função.
+Já trabalhei como **Analista de Treinamento e Desenvolvimento**, e levo para minha jornada de dev as habilidades de comunicação, ensino e organização adquiridas nessa função.
 
 Durante minha graduação, participei do projeto **Learning Lab (UFC - Russas)**, onde ministrei cursos, participei da construção de sites e tive artigos aprovados. Isso reforçou meu interesse por unir tecnologia e educação.
 
